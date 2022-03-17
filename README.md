@@ -1,8 +1,11 @@
 # NCP
 
 3/17 
+
 1강. 과정 소개 및 네이버클라우드플랫폼 서비스 개요
+
 2강. (Compute) Compute 상품군 소개
+
 3강. (Compute) 서버 Operation 방안 소개
 4강. (Compute) 오토스케일링과 쿠버네티스 서비스 소개
 5강. (Network) Network 상품군 및 VPC 소개
