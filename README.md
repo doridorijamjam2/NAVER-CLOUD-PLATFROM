@@ -1,6 +1,6 @@
 # NCP
 
-3/17 이론 공부
+3/17 이론 공부 및 테스트
 
 1강. 과정 소개 및 네이버클라우드플랫폼 서비스 개요
 
@@ -30,7 +30,9 @@
 
 14강. (Cloud DB) Cloud DB For MySQL 생성 및 접속 데모
 
-3/18 이론공부
+
+3/18 이론 공부 및 테스트
+
 15강.(AI/Application) 네이버클라우드플랫폼 AI/Application 서비스 소개
 
 16강.(AI/Application) Cloud Outbound Mailer 활용 데모
