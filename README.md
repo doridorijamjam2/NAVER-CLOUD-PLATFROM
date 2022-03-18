@@ -30,6 +30,24 @@
 
 14강. (Cloud DB) Cloud DB For MySQL 생성 및 접속 데모
 
+3/18 이론공부
+15강.(AI/Application) 네이버클라우드플랫폼 AI/Application 서비스 소개
+
+16강.(AI/Application) Cloud Outbound Mailer 활용 데모
+
+17강. (Management) Management 상품군 내 서비스 소개
+
+18강. (Management) Cloud Insight 서비스 신청 및 설정 데모
+
+19강.(Analytics) Analytics 상품군 내 서비스 소개
+
+20강. (Analytics) Cloud Log Analytics 활용법 데모
+
+21강.(Security) Security 서비스 소개
+
+22강.(Media) 미디어 서비스 소개
+
+
 -----------------------------------------------------------------------
 
 
