@@ -10,6 +10,22 @@
 
 데모 1. VPC, Subnet , 실습 서버 생성 / CLA 에이전트 설치 등
 
+3강. Server Operation 1 – 서버 스펙 변경, 이미지 생성, 유사 서버 생성 등
+
+4강. Server Operation 2 –스토리지, 스냅샷, Public Ip, init script, ACG 소개
+
+데모 2. 추가 스토리지 추가 및 LVM, 동적 디스크 할당, 내 서버이미지 기반의 서버 생성 등
+
+5강. Private subnet 및 Network interface Operation, Secure zone
+
+6강. Container registry와 컨테이너 특징
+
+데모 3. Container registry 서비스 생성 및 custom image 생성 후 Container registry에 push
+
+7강. 쿠버네티스 서비스와 쿠버네티스의 주요 컴포넌트 소개
+
+데모 4. 쿠버네티스 클러스터 생성 및 단일 pod, deployment 활용, 로드밸런서 생성
+
 -----------------------------------------------------------------------
 
 
