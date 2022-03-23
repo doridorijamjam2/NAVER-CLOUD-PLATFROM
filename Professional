@@ -50,6 +50,24 @@
 
 AVG, Server, Block Storage 생성 및 Linux 서버 테스트 진행, Linux 명령어 복습 및 공부
 
+3/23 이론 공부 및 테스트
+
+13강. Database 상품군 특징 및 Cloud DB for MySQL Operation
+
+데모 9. Cloud DB for My-SQL 생성 및 Operation
+
+데모 14. Troubleshooting - UUID값 조정
+
+19강. 네이버 클라우드 플랫폼 트러블 슈팅 방안 소개
+
+Block Storage 생성 및 테스트
+NAS 생성 및 mount, umount 테스트
+Storage 확장 테스트
+Target 생성 및 loadbalance 생성 및 테스트
+Cloud DB for MYSQL, Cloud DB for MongoDB 생성 및 테스트
+
+Linux 명령어 복습 및 공부
+
 
 -----------------------------------------------------------------------
 
