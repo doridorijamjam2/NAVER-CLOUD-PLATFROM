@@ -92,6 +92,13 @@ NCP를 이용하여 WAS(Tomcat) + WEB(apache) + MYSQL 연동 테스트 진행
 
 NCP를 이용하여 WAS(Tomcat) + WEB(apache) + MYSQL(DB) 연동 테스트 진행 (오류 해결 중)
 
+3/29
+
+WAS(Private Server) 2대(서버이미지) + WEB(Public Server) 2대(서버이미지)+ DB(MYSQL) 이중화
+ 
+ 3/30
+ 
+ NCP Networking Service PT 발표 준비
 
 -----------------------------------------------------------------------
 
