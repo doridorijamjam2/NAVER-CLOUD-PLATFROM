@@ -96,9 +96,13 @@ NCP를 이용하여 WAS(Tomcat) + WEB(apache) + MYSQL(DB) 연동 테스트 진�
 
 WAS(Private Server) 2대(서버이미지) + WEB(Public Server) 2대(서버이미지)+ DB(MYSQL) 이중화
  
- 3/30
+ 3/30 ~ 4/5
  
  NCP Networking Service PT 발표 준비
+ 
+ 4/6
+ 
+ MYSQL DB REPLICATION(복제) 이중화 테스트 진행
 
 -----------------------------------------------------------------------
 
